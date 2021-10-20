@@ -74,6 +74,12 @@ C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYon
 C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\obj\Debug\KutuphaneYonetimi1O.MVC.csproj.AssemblyReference.cache
 C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\obj\Debug\KutuphaneYonetimi1O.MVC.csproj.CoreCompileInputs.cache
-C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\obj\Debug\KutuphaneYonetimi1O.MVC.csproj.CopyComplete
 C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\obj\Debug\KutuphaneYonetimi1O.MVC.dll
 C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\obj\Debug\KutuphaneYonetimi1O.MVC.pdb
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\KutuphaneYonetimi1O.Entites.dll
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\EntityFramework.dll
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\KutuphaneYonetimi1O.Entites.pdb
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\KutuphaneYonetimi1O.Entites.dll.config
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\EntityFramework.xml
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\EntityFramework.SqlServer.dll
+C:\Üniversite Ders Notları\2021-2022\Guz\C#Uygulamaları\1Ogretim\KutuphaneYonetimiMVC1O\KutuphaneYonetimi1O\KutuphaneYonetimi1O.MVC\bin\EntityFramework.SqlServer.xml

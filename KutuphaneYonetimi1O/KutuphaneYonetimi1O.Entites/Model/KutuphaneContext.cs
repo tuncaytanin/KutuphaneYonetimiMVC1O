@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace KutuphaneYonetimi1O.Entites.Model
 {
-    class KutuphaneContext:DbContext
+    public class KutuphaneContext:DbContext
     {
         public KutuphaneContext():base("name=Kutuphane1OEntites")
         {
